@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirholya01&label=Profile%20views&color=0e75b6&style=flat" alt="amirholya01" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, TypeScript....**
+- 🌱 I’m currently learning **ReactJS, TypeScript...**
 
 - 💬 I fancy **Java, and might be a bit C#**
 
